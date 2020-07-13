@@ -16,7 +16,7 @@ We have used the following methods in pre processing:-
 
 4. Data augmentation
    Since a small dataset can lead to overfitting, we performed random rotation, random noise and horizontal flipping on pre-processed images to increase the dataset.
-   We used algorithms of skimage for this.
+   We have used algorithms of skimage for this.
 
 All the images after preprocessing along with augmentated images are appended in a list and we get a final list of pre processed data which will be used further.
 The link for the codes of all the pre processing steps is here-

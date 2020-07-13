@@ -10,9 +10,19 @@ Further we convert it into a decimal value which is assigned to the central pixe
 The same is done for each pixel of the image, hence, highlighting facial features like eyes,nose,eyebrows and mouth.
 
 LIBRARIES USED -
+1. numpy
+2. matplotlib
 
 WHAT WE INTEND TO DO -
+1. After pre-processing of images, we have a list of 876 images on which we have to apply the LBP algorithm to extract their features.
+2. We have created a simple function for LBP using basics functions.
+3. We then run this algorithm on all images using loops, saving the ready images in a list.
+4. Finally we plot histogram of each image and save them in a separate list.
 
 FINAL RESULTS EXPECTED -
+1. A list of images that have their features extracted.
+2. A list of corresponding histograms of images.
 
 REFERENCES -
+1. www.geeksforgeeks.org
+2. www.stackoverflow.com

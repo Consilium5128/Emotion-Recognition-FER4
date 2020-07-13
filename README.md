@@ -12,7 +12,7 @@ The Emotion Recognition using Facial Expressions project was offered by Brain an
 7. Neutral
 
 # Paper
-The paper which our team followed was [This one].(Li2020_Article_FacialExpressionRecognitionWit.pdf)
+The paper which our team followed was [This one](Li2020_Article_FacialExpressionRecognitionWit.pdf).
 We didn't implement the paper exactly as it is but followed the direction specified in the paper. There are certain variations which we did to make it our own.
 
 # Dataset
@@ -69,4 +69,4 @@ Saksham Pruthi,
 Samriddhi Gupta,
 Tanisha Agrawal,
 Videeta Sharma,
-Yatharth Gupta,
+Yatharth Gupta

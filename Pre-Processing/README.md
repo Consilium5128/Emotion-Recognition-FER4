@@ -25,6 +25,4 @@ LIBRARIES USED-dlib,cv2,numpy,matplotlib,os,skimage, keras.preprocessing.image
 
 FILES USED-"shape_predictor_5_face_landmarks.dat.bz2",'haarcascade_frontalface_default.xml'
 
-FINAL OUTPUT-
-
-REFERENCES-
+FINAL OUTPUT- Images can be viewed in the [Image_Visualisation](https://github.com/Consilium5128/Emotion-Recognition-FER4/tree/master/Images_Visualization) folder

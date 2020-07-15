@@ -1,7 +1,7 @@
 An array of labels is created corresponding to the training set images where the labels are :-anger,happy,disgust,fear,sad,surprise,neutral
 Pre proccessing for each emotion file is done separately.
 
-We have used the following methods in pre processing:-
+We have used the following methods in pre processing:
 1. Face detection 
    This technique is responsible for selecting the ROI of an input image that will be fed to the next steps of the FER system.
    The images are first converted into gray images followed by face detection using haarcascade fontalface detector.

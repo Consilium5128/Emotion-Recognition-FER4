@@ -1,4 +1,4 @@
-After Classification is done , we run k-fold cross validation (with k=10) to measure accuracy of the neural network.
+After Classification is done , we run K-fold cross validation (with k=10) to measure accuracy of the neural network.
 Since the dataset used is not skewed , accuracy can be used as an appropriate evaluation metric for the neural network.
 
 In 10-fold cross validation, the entire dataset is divided into 10 parts.

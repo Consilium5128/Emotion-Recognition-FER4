@@ -11,23 +11,23 @@ The Emotion Recognition using Facial Expressions project was offered by Brain an
 6. Surprise
 7. Neutral
 
-# Paper
+## Paper
 The paper which our team followed was [This one](Li2020_Article_FacialExpressionRecognitionWit.pdf).
 We didn't implement the paper exactly as it is but followed the direction specified in the paper. There are certain variations which we did to make it our own.
 
-# Dataset
+## Dataset
 The Dataset used is the The Japanese Female Facial Expression, or JAFFE dataset. It can be found in the dataset folder [above](https://github.com/Consilium5128/Emotion-Recognition-FER4/tree/master/Dataset%20%2B%20Files)
 
-# Verticals
+## Verticals
 1. [Pre-Processing](https://github.com/Consilium5128/Emotion-Recognition-FER4/tree/master/Pre-Processing)
 2. [Feature Extraction](https://github.com/Consilium5128/Emotion-Recognition-FER4/tree/master/Feature%20Extraction)
 3. [Classification](https://github.com/Consilium5128/Emotion-Recognition-FER4/tree/master/Classification)
 4. [Validation](https://github.com/Consilium5128/Emotion-Recognition-FER4/tree/master/Validation)
 
-# Code
+## Code
 The final code will be found here
 
-# Variations from Paper
+## Variations from Paper
 |        Paper       |      Our Model      |
 | :----------------: | :----------------:  |
 | Momentum optimizer |   Adam optimizer    |
@@ -40,7 +40,7 @@ The final code will be found here
 
 There are a few smaller variations too in the Pre-processing code (Cropping and Alignement methods) and in validation, which opted out of using a hidden fully connected layer to improve accuracy.
 
-# Results
+## Results
 The final accuracy obtained by the model was 100% (both training and validation accuracy) with a loss of (5.711762e-05) on a total of 876 images of the JAFFE dataset with a 10 split Kfold Cross Validation
 
 The accuracy obtained using the parameters of the Paper was 76.12%
@@ -51,13 +51,13 @@ The best accuracy obtained by the paper with the JAFFE dataset was 97.65% with a
 
 Our final model yielded the highest accuracy of 1oo% which was almost consistent after the 3rd epoch. There were differences noticed in the training times too as our model required 51 minutes at max to train while on the same computer, it required approximately 9 hours to train using the paper's parameters.
 
-# Visualization
+## Visualization
 
-# Impact
+## Impact
 In this project , we present an efficient FER approach which simplifies the CNN and propose new face cropping and image rotation methods.
  We envision that these proposed data processing methods will lead to high recognition accuracies and can be implemented on an ordinary computer without GPU acceleration. We hope our effort will act as catalyst for deeper research in this field and someday these techniques will be used in consumer neuroscience & neuromarketing and medical applications & plastic surgery.
 
-# Team
+## Team
 
 Mentor - Avisha Gaur
 

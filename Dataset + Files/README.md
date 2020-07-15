@@ -1,3 +1,6 @@
+## dataset.zip
+Contains complete JAFFE dataset
+
 ## an.zip
 Contains dataset images characterised by Anger
 

@@ -4,7 +4,7 @@ In a conventional FER system, the relevant features are facial features.
 For the purpose of feature extraction we will be using Local Binary Patterns (LBP).
 
 In LBP, we focus on 9 pixels (3x3) at a time.
-We first compare the neighbouring pixels with the central pixel, and assign a value '0' or '1' to the neighbouring pixel relative to the central pixel.
+We first compare the neighbouring pixels with the central pixel, and assign a value of '0' or '1' to the neighbouring pixel relative to the central pixel.
 Doing so we get a set of 8 bits which we can convert into a byte, going either clockwise or anticlockwise.
 Further we convert it into a decimal value which is assigned to the central pixel.
 The same is done for each pixel of the image, hence, highlighting facial features like eyes,nose,eyebrows and mouth.

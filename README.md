@@ -55,6 +55,32 @@ The best accuracy obtained by the paper with the JAFFE dataset was 97.65% with a
 Our final model yielded the highest accuracy of 100% which was almost consistent after the 3rd epoch. There were differences noticed in the training times too as our model required 51 minutes at max to train while on the same computer, it required approximately 9 hours to train using the paper's parameters.
 
 ## Visualization
+**Initial Image**
+![Initial Image](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/Initial%20Image.png)
+
+**Image after cropping**
+![Cropping](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/Image%20after%20cropping.png)
+
+**Image after Histogram Equalization**
+![Histogram Equalization](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/Image%20after%20histogram%20equalization.png)
+
+**Image after Flipping**
+![Flip](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/Flipped%20image.png)
+
+**Image after noise addition**
+![Noise addition](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/Image%20after%20noise%20addition.png)
+
+**LBP Histogram**
+![Histogram](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/LBP%20Histogram.png)
+
+**Model.evaluate()**
+![Evaluate](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/Model.evaluate().png)
+
+**Accuracy Plot**
+![Accuracy](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/Accuracy%20plot.png)
+
+**Loss Plot**
+![Loss](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/Loss%20plot.png)
 
 ## Impact
 In this project , we present an efficient FER approach which simplifies the CNN and propose new face cropping and image rotation methods.

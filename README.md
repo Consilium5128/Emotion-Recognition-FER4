@@ -1,7 +1,7 @@
 # Emotion-Recognition-FER4
 Master Repository for all model code, Pre-processing+feature extraction+classification+validation
 
-The Emotion Recognition using Facial Expressions project was offered by Brain and Cognitive Society, Science and Technology Council in the summer of 2020. The project, as is self-explanatory from it's name, aims to to detect involuntary emotional response occurring simultaneously with conflicting voluntary emotional response and identifying true emotions by building classifiers that categorise facial expressions into 6 universal emotion categories (+1 neutral)
+The Emotion Recognition using Facial Expressions project was offered by Brain and Cognitive Society, Science and Technology Council, IIT Kanpur in the summer of 2020. The project, as is self-explanatory from it's name, aims to to detect involuntary emotional response occurring simultaneously with conflicting voluntary emotional response and identifying true emotions by building classifiers that categorise facial expressions into 6 universal emotion categories (+1 neutral)
 
 1. Anger
 2. Happiness
@@ -44,7 +44,7 @@ There are a few smaller variations too in the Pre-processing code (Cropping and 
 We used Kfold Cross Validation on JAFFE dataset (with augmentation) to train the model and simultaneously test it too. No external dataset was used for testing (No cross-database testing)
 
 ## Results
-The final accuracy obtained by the model was **100%** (both training and validation accuracy) with a loss of **(5.711762e-05)** on a total of **876 images of the JAFFE dataset with a 10 split Kfold Cross Validation**
+The final accuracy obtained by the model was **100%** (both training and validation accuracy) with a loss of **(5.711762e-05)** on a total of **876 images** of the **JAFFE dataset** with a **10 split Kfold Cross Validation**
 
 The accuracy obtained using the parameters of the Paper was 76.12%
 

@@ -9,7 +9,7 @@ As a result the computation time is reduced, the bias and variance is reduced (p
 once.
 
 LIBRARIES USED-
-numpy
+numpy and
 Sklearn
 
 EXPECTED RESULT-

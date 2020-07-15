@@ -2,7 +2,7 @@ After Pre-processing and Feature Extraction, a CNN model has been used to classi
 
 Two models were predefined and the final CNN model that has been used is the one which is specified by the paper, with a variation in Dropout value to achieve optimum accuracy.
 
-Xavier initializer has been used which ensures that the mean of the activations should be zero and the variance of the activations should stay the same across every layer, coupled with Relu activation function along with the Adam optimizer
+Xavier initializer has been used which ensures that the mean of the activations should be zero and the variance of the activations should stay the same across every layer, coupled with Relu activation function along with the Adam optimizer.
 Learning Rate = 0.0001
 
 Libraries used:

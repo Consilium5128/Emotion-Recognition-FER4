@@ -15,7 +15,7 @@ LIBRARIES USED -
 
 WHAT WE INTEND TO DO -
 1. After pre-processing of images, we have a list of 876 images on which we have to apply the LBP algorithm to extract their features.
-2. We have created a simple function for LBP using basics functions.
+2. We have created a simple function for LBP using basic functions.
 3. We then run this algorithm on all images using loops, saving the ready images in a list.
 4. Finally we plot histogram of each image and save them in a separate list.
 

@@ -8,6 +8,8 @@ constitue the training data.
 As a result the computation time is reduced, the bias and variance is reduced (preventing underfitting and overfitting) because every datapoint gets to be tested 
 once.
 
+We test the structure of the neural network by adding a hidden fully connected layer and comparing the accuracies for different number of neurons in this layer [0,256,512,1024] . We find maximum average accuracy for 0 , i.e the neural network structure is better without the hidden fully connected layer.
+
 LIBRARIES USED-
 numpy and
 Sklearn

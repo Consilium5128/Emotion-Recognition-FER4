@@ -21,3 +21,6 @@ Contains dataset images characterised by Sadness
 
 ## sur.zip
 Contains dataset images characterised by Surprise
+
+## haarcascade_frontalface_default.xml
+It is a classifier designed by OpenCV to detect frontal faces to enable face detection

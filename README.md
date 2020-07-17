@@ -82,6 +82,12 @@ Our final model yielded the highest accuracy of 100% which was almost consistent
 **Loss Plot**  
 ![Loss](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/Loss%20plot.png)
 
+**Confusion Matrix**  
+![Confusion Matrix](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/Confusion%20Matrix.png)
+
+**Normalized Confusion Matrix**  
+![Normal Confusion Matrix](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/Normalized%20Confusion%20Matrix.png)
+
 ## Impact
 In this project , we present an efficient FER approach which simplifies the CNN and propose new face cropping and image rotation methods.
  We envision that these proposed data processing methods will lead to high recognition accuracies and can be implemented on an ordinary computer without GPU acceleration. We hope our effort will act as catalyst for deeper research in this field and someday these techniques will be used in consumer neuroscience & neuromarketing and medical applications & plastic surgery.

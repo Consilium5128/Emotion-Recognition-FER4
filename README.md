@@ -25,7 +25,7 @@ The Dataset used is the The Japanese Female Facial Expression, or JAFFE dataset.
 4. [Validation](https://github.com/Consilium5128/Emotion-Recognition-FER4/tree/master/Validation)
 
 ## Code
-The final code will be found here
+The final code can be seen [here](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/FER4.ipynb)
 
 ## Variations from Paper
 |        Paper       |      Our Model      |

@@ -73,6 +73,9 @@ Our final model yielded the highest accuracy of 100% which was almost consistent
 **LBP Histogram**  
 ![Histogram](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/LBP%20Histogram.png)
 
+**CNN model structure**
+![CNN model](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/CNN%20model%20structure.png)
+
 **Model.evaluate()**  
 ![Evaluate](https://github.com/Consilium5128/Emotion-Recognition-FER4/blob/master/Images_Visualization/Model.evaluate().png)
 

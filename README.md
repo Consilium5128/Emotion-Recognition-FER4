@@ -1,7 +1,7 @@
-# Emotion-Recognition-FER4
+# Emotion-Recognition-FER
 Master Repository for all model code, Pre-processing+feature extraction+classification+validation
 
-The Emotion Recognition using Facial Expressions project was offered by Brain and Cognitive Society, Science and Technology Council, IIT Kanpur in the summer of 2020. The project, as is self-explanatory from it's name, aims to to detect involuntary emotional response occurring simultaneously with conflicting voluntary emotional response and identifying true emotions by building classifiers that categorise facial expressions into 6 universal emotion categories (+1 neutral)
+The Emotion Recognition using Facial Expressions project was offered by Brain and Cognitive Society, Science and Technology Council, IIT Kanpur in the summer of 2020. The project aims to to detect involuntary emotional response occurring simultaneously with conflicting voluntary emotional response and identifying true emotions by building classifiers that categorise facial expressions into six universal emotion categories (+1 neutral)
 
 1. Anger
 2. Happiness
@@ -12,8 +12,8 @@ The Emotion Recognition using Facial Expressions project was offered by Brain an
 7. Neutral
 
 ## Paper
-The paper which our team followed can be found [here](Li2020_Article_FacialExpressionRecognitionWit.pdf).
-We didn't implement the paper exactly as it is but followed the direction specified in the paper. There are certain variations which we did to make it our own.
+The paper our team followed can be found [here](Li2020_Article_FacialExpressionRecognitionWit.pdf).
+We did not implement the paper exactly as it is but followed the direction specified in the paper. There are certain variations which we did to make it more acurate.
 
 ## Dataset
 The Dataset used is the The Japanese Female Facial Expression, or JAFFE dataset. It can be found in the dataset folder [above](https://github.com/Consilium5128/Emotion-Recognition-FER4/tree/master/Dataset%20%2B%20Files)
@@ -93,7 +93,7 @@ Our final model yielded the highest accuracy of 100% which was almost consistent
 
 ## Impact
 In this project , we present an efficient FER approach which simplifies the CNN and propose new face cropping and image rotation methods.
- We envision that these proposed data processing methods will lead to high recognition accuracies and can be implemented on an ordinary computer without GPU acceleration. We hope our effort will act as catalyst for deeper research in this field and someday these techniques will be used in consumer neuroscience & neuromarketing and medical applications & plastic surgery.
+ We envision that these proposed data processing methods will lead to high recognition accuracies and can be implemented on an ordinary computer without GPU acceleration. We hope our effort will act as catalyst for deeper research in this field and someday these techniques will be used in consumer neuroscience & neuromarketing and medical applications, plastic surgery and artificial intelligence.
 
 ## Team
 

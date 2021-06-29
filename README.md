@@ -44,7 +44,7 @@ There are a few smaller variations too in the Pre-processing code (Cropping and 
 We used Kfold Cross Validation on JAFFE dataset (with augmentation) to train the model and simultaneously test it too. No external dataset was used for testing (No cross-database testing)
 
 ## Results
-The final accuracy obtained by the model was **100%** (both training and validation accuracy) with a loss of **(5.711762e-05)** on a total of **876 images** of the **JAFFE dataset** with a **10 split Kfold Cross Validation**
+The final accuracy obtained by the model was **100%** (both training and validation accuracy) and a testing accuracy of **97%** with a loss of **(5.711762e-05)** on a total of **876 images** of the **JAFFE dataset** with a **10 split Kfold Cross Validation**
 
 The accuracy obtained using the parameters of the Paper was 76.12%
 
@@ -52,7 +52,7 @@ The accuracy obtained without Kfold cross validation and LBP was 65.01%, while t
 
 The best accuracy obtained by the paper with the JAFFE dataset was 97.65% with an average of 97.18%
 
-Our final model yielded the highest accuracy of 100% which was almost consistent after the 3rd epoch. There were differences noticed in the training times too as our model required 51 minutes at max to train while on the same computer, it required approximately 9 hours to train using the paper's parameters.
+Our final model yielded the highest accuracy of 100% which was almost consistent after the 3rd epoch.
 
 ## Visualization
 **Initial Image**  

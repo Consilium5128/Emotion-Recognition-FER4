@@ -48,7 +48,7 @@ The final accuracy obtained by the model was **100%** (both training and validat
 
 The accuracy obtained using the parameters of the Paper was 76.12%
 
-The accuracy obtained without Kfold cross validation and LBP was 65.01%, while that with just Kfold was 83.91% peak accuracy (validation data)
+The accuracy obtained without Kfold cross validation and LBP was 65.01%, while that with just Kfold was 83.91% peak accuracy (validation data).
 
 The best accuracy obtained by the paper with the JAFFE dataset was 97.65% with an average of 97.18%
 
